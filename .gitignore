@@ -159,9 +159,18 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+data
+
 # Exercise-1
 Exercise-1/.github
 Exercise-1/.tests
 Exercise-1/.gitignore
 Exercise-1/README.md
+.DS_Store
+
+# Exercise-2
+Exercise-2/.github
+Exercise-2/.tests
+Exercise-2/.gitignore
+Exercise-2/README.md
 .DS_Store
